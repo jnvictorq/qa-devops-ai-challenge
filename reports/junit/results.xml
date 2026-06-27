@@ -1,0 +1,26 @@
+<testsuites id="" name="" tests="9" failures="0" skipped="0" errors="0" time="26.424283">
+<testsuite name="login.spec.ts" timestamp="2026-06-27T01:20:09.534Z" hostname="chrome" tests="4" failures="0" skipped="0" time="21.846" errors="0">
+<testcase name="Deposit module login › HPP Login exitoso como cliente existente1 | Chrome | Hermoine Granger @chrome" classname="login.spec.ts" time="7.457">
+</testcase>
+<testcase name="Deposit module login › HPP Login exitoso como cliente existente2 | Chrome | Neville Longbottom @chrome" classname="login.spec.ts" time="8.239">
+</testcase>
+<testcase name="Deposit module login › TTF Intentar login sin seleccionar cliente1 | Chrome @chrome" classname="login.spec.ts" time="3.141">
+</testcase>
+<testcase name="Deposit module login › TTF Intentar login sin seleccionar cliente2 | Chrome @chrome" classname="login.spec.ts" time="3.009">
+</testcase>
+</testsuite>
+<testsuite name="login.spec.ts" timestamp="2026-06-27T01:20:09.534Z" hostname="chrome-headless" tests="4" failures="0" skipped="0" time="15.66" errors="0">
+<testcase name="Deposit module login › HPP Login exitoso como cliente existente1 | ChromeHeadless | Albus Dumbledore @chrome-headless" classname="login.spec.ts" time="4.998">
+</testcase>
+<testcase name="Deposit module login › HPP Login exitoso como cliente existente2 | ChromeHeadless | Ron Weasly @chrome-headless" classname="login.spec.ts" time="4.588">
+</testcase>
+<testcase name="Deposit module login › TTF Intentar login sin seleccionar cliente1 | ChromeHeadless @chrome-headless" classname="login.spec.ts" time="2.891">
+</testcase>
+<testcase name="Deposit module login › TTF Intentar login sin seleccionar cliente2 | ChromeHeadless @chrome-headless" classname="login.spec.ts" time="3.183">
+</testcase>
+</testsuite>
+<testsuite name="test-1.spec.ts" timestamp="2026-06-27T01:20:09.534Z" hostname="chrome-headless" tests="1" failures="0" skipped="0" time="3.875" errors="0">
+<testcase name="Basic login smoke test @chrome-headless" classname="test-1.spec.ts" time="3.875">
+</testcase>
+</testsuite>
+</testsuites>

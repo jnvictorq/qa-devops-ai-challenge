@@ -18,6 +18,7 @@ on:
 
 jobs:
 
+
   qa-tests:
 
 
@@ -28,17 +29,13 @@ jobs:
     steps:
 
 
-    # 1. Checkout del repositorio
-
     - name: Checkout repository
 
       uses: actions/checkout@v4
 
 
 
-    # 2. Instalación de Node
-
-    - name: Setup Node.js
+    - name: Setup Node
 
       uses: actions/setup-node@v4
 
@@ -46,9 +43,9 @@ jobs:
 
         node-version: 22
 
+        cache: npm
 
 
-    # 3. Instalación de dependencias
 
     - name: Install dependencies
 
@@ -56,41 +53,19 @@ jobs:
 
 
 
-    # Instalar navegadores Playwright
-
     - name: Install Playwright browsers
 
       run: npx playwright install --with-deps
 
 
 
-    # 4. Ejecución pruebas automatizadas
+    - name: Execute Playwright tests
 
-    - name: Run Playwright tests
-
-      run: npm test
-
-      continue-on-error: false
+      run: npm run test:chrome
 
 
 
-    # 5. Generación de reportes
-
-    - name: Generate test logs
-
-      if: always()
-
-      run: |
-
-        mkdir -p reports
-
-        echo "QA execution completed" > reports/execution.log
-
-
-
-    # Publicar reportes HTML Playwright
-
-    - name: Upload Playwright Report
+    - name: Upload HTML Report
 
       if: always()
 
@@ -100,13 +75,11 @@ jobs:
 
         name: playwright-report
 
-        path: playwright-report/
+        path: reports/html/
 
 
 
-    # Publicar logs
-
-    - name: Upload Execution Logs
+    - name: Upload Logs
 
       if: always()
 
@@ -116,4 +89,4 @@ jobs:
 
         name: execution-logs
 
-        path: reports/
+        path: test-results/

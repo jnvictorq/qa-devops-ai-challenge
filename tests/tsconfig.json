@@ -3,10 +3,7 @@
     "target": "ES2022",
     "module": "commonjs",
     "moduleResolution": "bundler",
-    "types": [
-      "node",
-      "@playwright/test"
-    ],
+    "types": ["node", "@playwright/test"],
     "strict": true,
     "esModuleInterop": true,
     "resolveJsonModule": true,
@@ -15,16 +12,9 @@
     "ignoreDeprecations": "6.0",
     "baseUrl": ".",
     "paths": {
-      "@pages/*": [
-        "tests/pages/*"
-      ],
-      "@support/*": [
-        "tests/support/*"
-      ]
+      "@pages/*": ["pages/*"],
+      "@support/*": ["support/*"]
     }
   },
-  "include": [
-    "playwright.config.ts",
-    "tests/**/*.ts"
-  ]
+  "include": ["**/*.ts"]
 }
