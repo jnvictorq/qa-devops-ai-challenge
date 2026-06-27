@@ -37,7 +37,7 @@ export default defineConfig({
         ...devices['Desktop Chrome'],
         browserName: 'chromium',
         channel: 'chrome',
-        headless: false,
+        headless: process.env.CI ? true : false
       },
     },
     {
@@ -46,7 +46,7 @@ export default defineConfig({
       use: {
         ...devices['Desktop Firefox'],
         browserName: 'firefox',
-        headless: false,
+        headless: process.env.CI ? true : false
       },
     },
     {
@@ -56,7 +56,7 @@ export default defineConfig({
         ...devices['Desktop Edge'],
         browserName: 'chromium',
         channel: 'msedge',
-        headless: false,
+        headless: process.env.CI ? true : false
       },
     },
     {
