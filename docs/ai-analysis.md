@@ -82,3 +82,44 @@ Se adaptaron los ejemplos al contexto de una tienda online y pruebas QA.
 - La IA puede generar respuestas incorrectas.
 - Las respuestas dependen de la calidad del contexto entregado.
 - Requiere validación humana para información importante.
+
+# Uso responsable de IA
+
+
+## Qué se generó con IA
+
+Se utilizó inteligencia artificial como apoyo para:
+
+- Crear una estructura inicial de documentación QA.
+- Generar una tabla de hallazgos.
+- Resumir los resultados obtenidos en pruebas de performance.
+- Mejorar la redacción de documentos técnicos.
+
+
+## Qué fue revisado manualmente
+
+Se realizó una revisión manual de:
+
+- Exactitud de las métricas de performance.
+- Coherencia de las conclusiones.
+- Adaptación del contenido al proyecto QA Store.
+- Cumplimiento de los criterios del reto.
+
+
+## Qué ajustes se realizaron
+
+Los cambios realizados fueron:
+
+- Ajustar la información al contexto del proyecto.
+- Corregir términos técnicos.
+- Validar que los resultados correspondan con la ejecución real.
+- Eliminar información que no aplicaba.
+
+
+## Limitaciones encontradas
+
+Durante el uso de IA se identificaron las siguientes limitaciones:
+
+- La IA puede interpretar incorrectamente resultados si no recibe suficiente contexto.
+- Puede generar recomendaciones generales que requieren validación técnica.
+- No reemplaza la ejecución real de pruebas ni la revisión del equipo QA.
