@@ -1,0 +1,388 @@
+2026-06-28 14:02:52,396 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-06-28 14:02:52,432 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.3\bin\user.properties
+2026-06-28 14:02:52,434 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.3\bin\system.properties
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: Version 5.6.3
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: java.version=21.0.11
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: os.name=Windows 11
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: os.arch=amd64
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: os.version=10.0
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: java.awt.headless=true
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-06-28 14:02:52,442 INFO o.a.j.JMeter: Available Processors =4
+2026-06-28 14:02:52,456 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-06-28 14:02:52,456 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-06-28 14:02:52,458 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.3
+2026-06-28 14:02:52,458 INFO o.a.j.JMeter: user.dir  =G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge
+2026-06-28 14:02:52,458 INFO o.a.j.JMeter: PWD       =G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge
+2026-06-28 14:02:52,461 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: Victor FullName: Victor
+2026-06-28 14:02:52,477 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report'
+2026-06-28 14:02:52,486 INFO o.a.j.s.FileServer: Default base='G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge'
+2026-06-28 14:02:52,492 INFO o.a.j.s.FileServer: Set new base='G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter'
+2026-06-28 14:02:52,793 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-06-28 14:02:52,864 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-06-28 14:02:52,879 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-06-28 14:02:52,879 INFO o.a.j.s.SaveService: Loading file: performance\jmeter\qa_store_test.jmx
+2026-06-28 14:02:52,982 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-28 14:02:52,982 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-28 14:02:52,982 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-28 14:02:52,982 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-28 14:02:52,982 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-06-28 14:02:52,982 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-06-28 14:02:53,046 INFO o.a.j.JMeter: Creating summariser <summary>
+2026-06-28 14:02:53,056 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2026-06-28 14:02:53,056 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: performance\jmeter\results.jtl
+2026-06-28 14:02:53,056 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\apache-jmeter-5.6.3\bin\reportgenerator.properties
+2026-06-28 14:02:53,068 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2026-06-28 14:02:53,079 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2026-06-28 14:02:53,086 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2026-06-28 14:02:53,086 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2026-06-28 14:02:53,087 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2026-06-28 14:02:53,088 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2026-06-28 14:02:53,088 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2026-06-28 14:02:53,088 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2026-06-28 14:02:53,088 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2026-06-28 14:02:53,090 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2026-06-28 14:02:53,093 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2026-06-28 14:02:53,102 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2026-06-28 14:02:53,103 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2026-06-28 14:02:53,103 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2026-06-28 14:02:53,123 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-06-28 14:02:53,123 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-06-28 14:02:53,123 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-06-28 14:02:53,137 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2026-06-28 14:02:53,137 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2026-06-28 14:02:53,371 INFO o.a.j.JMeter: Running test (1782669773371)
+2026-06-28 14:02:53,397 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Login
+2026-06-28 14:02:53,397 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Login.
+2026-06-28 14:02:53,399 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-28 14:02:53,399 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=10 delayedStart=false
+2026-06-28 14:02:53,410 INFO o.a.j.t.JMeterThread: Thread started: Login 1-1
+2026-06-28 14:02:53,435 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-06-28 14:02:53,435 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Consulta de Porductos
+2026-06-28 14:02:53,435 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Consulta de Porductos.
+2026-06-28 14:02:53,435 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-28 14:02:53,435 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=20 ramp-up=10 delayedStart=false
+2026-06-28 14:02:53,447 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2026-06-28 14:02:53,447 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : API pública (usuarios)
+2026-06-28 14:02:53,447 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group API pública (usuarios).
+2026-06-28 14:02:53,447 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-28 14:02:53,447 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=20 ramp-up=10 delayedStart=false
+2026-06-28 14:02:53,459 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2026-06-28 14:02:53,459 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : Flujo de Compra
+2026-06-28 14:02:53,459 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Flujo de Compra.
+2026-06-28 14:02:53,459 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-28 14:02:53,459 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=20 ramp-up=10 delayedStart=false
+2026-06-28 14:02:53,478 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2026-06-28 14:02:53,478 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-06-28 14:02:53,480 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-1
+2026-06-28 14:02:53,485 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = Victor
+2026-06-28 14:02:53,493 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-1
+2026-06-28 14:02:53,505 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-1
+2026-06-28 14:02:53,521 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2026-06-28 14:02:53,524 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-06-28 14:02:53,525 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-06-28 14:02:53,525 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-06-28 14:02:53,525 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-06-28 14:02:53,766 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2026-06-28 14:02:53,841 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2026-06-28 14:02:53,842 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2026-06-28 14:02:53,930 INFO o.a.j.t.JMeterThread: Thread started: Login 1-2
+2026-06-28 14:02:53,995 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-2
+2026-06-28 14:02:53,998 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-2
+2026-06-28 14:02:54,013 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-2
+2026-06-28 14:02:54,083 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2026-06-28 14:02:54,091 INFO o.a.j.u.SSLManager: KeyStore created OK
+2026-06-28 14:02:54,091 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2026-06-28 14:02:54,428 INFO o.a.j.t.JMeterThread: Thread started: Login 1-3
+2026-06-28 14:02:54,480 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-3
+2026-06-28 14:02:54,492 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-3
+2026-06-28 14:02:54,512 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-3
+2026-06-28 14:02:54,915 INFO o.a.j.t.JMeterThread: Thread started: Login 1-4
+2026-06-28 14:02:54,981 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-4
+2026-06-28 14:02:54,999 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-4
+2026-06-28 14:02:55,007 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-4
+2026-06-28 14:02:55,284 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-2
+2026-06-28 14:02:55,284 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-2
+2026-06-28 14:02:55,284 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-1
+2026-06-28 14:02:55,284 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-1
+2026-06-28 14:02:55,289 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-1
+2026-06-28 14:02:55,290 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-1
+2026-06-28 14:02:55,316 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-2
+2026-06-28 14:02:55,316 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-2
+2026-06-28 14:02:55,318 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-3
+2026-06-28 14:02:55,319 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-3
+2026-06-28 14:02:55,327 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-3
+2026-06-28 14:02:55,327 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-3
+2026-06-28 14:02:55,411 INFO o.a.j.t.JMeterThread: Thread started: Login 1-5
+2026-06-28 14:02:55,481 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-5
+2026-06-28 14:02:55,498 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-5
+2026-06-28 14:02:55,508 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-5
+2026-06-28 14:02:55,619 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-4
+2026-06-28 14:02:55,619 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-4
+2026-06-28 14:02:55,705 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-4
+2026-06-28 14:02:55,705 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-4
+2026-06-28 14:02:55,910 INFO o.a.j.t.JMeterThread: Thread started: Login 1-6
+2026-06-28 14:02:55,979 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-6
+2026-06-28 14:02:55,997 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-6
+2026-06-28 14:02:56,006 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-6
+2026-06-28 14:02:56,074 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-5
+2026-06-28 14:02:56,075 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-5
+2026-06-28 14:02:56,090 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-5
+2026-06-28 14:02:56,090 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-5
+2026-06-28 14:02:56,117 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-2
+2026-06-28 14:02:56,117 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-2
+2026-06-28 14:02:56,132 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-1
+2026-06-28 14:02:56,132 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-1
+2026-06-28 14:02:56,146 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-3
+2026-06-28 14:02:56,147 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-3
+2026-06-28 14:02:56,160 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-2
+2026-06-28 14:02:56,160 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-2
+2026-06-28 14:02:56,175 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-3
+2026-06-28 14:02:56,175 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-3
+2026-06-28 14:02:56,185 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-1
+2026-06-28 14:02:56,185 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-1
+2026-06-28 14:02:56,234 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-4
+2026-06-28 14:02:56,235 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-4
+2026-06-28 14:02:56,416 INFO o.a.j.t.JMeterThread: Thread started: Login 1-7
+2026-06-28 14:02:56,450 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-4
+2026-06-28 14:02:56,450 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-4
+2026-06-28 14:02:56,483 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-7
+2026-06-28 14:02:56,498 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-7
+2026-06-28 14:02:56,914 INFO o.a.j.t.JMeterThread: Thread started: Login 1-8
+2026-06-28 14:02:56,628 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-5
+2026-06-28 14:02:56,938 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-5
+2026-06-28 14:02:56,586 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-6
+2026-06-28 14:02:56,940 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-6
+2026-06-28 14:02:56,569 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-5
+2026-06-28 14:02:56,941 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-5
+2026-06-28 14:02:56,532 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-6
+2026-06-28 14:02:56,941 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-6
+2026-06-28 14:02:56,507 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-7
+2026-06-28 14:02:56,982 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-8
+2026-06-28 14:02:56,998 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-8
+2026-06-28 14:02:57,006 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-8
+2026-06-28 14:02:57,058 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-6
+2026-06-28 14:02:57,058 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-6
+2026-06-28 14:02:57,107 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-7
+2026-06-28 14:02:57,108 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-7
+2026-06-28 14:02:57,168 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-6
+2026-06-28 14:02:57,168 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-6
+2026-06-28 14:02:57,416 INFO o.a.j.t.JMeterThread: Thread started: Login 1-9
+2026-06-28 14:02:57,479 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-9
+2026-06-28 14:02:57,496 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-9
+2026-06-28 14:02:57,503 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-8
+2026-06-28 14:02:57,503 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-8
+2026-06-28 14:02:57,507 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-9
+2026-06-28 14:02:57,553 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-8
+2026-06-28 14:02:57,553 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-8
+2026-06-28 14:02:57,555 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-7
+2026-06-28 14:02:57,555 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-7
+2026-06-28 14:02:57,587 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-7
+2026-06-28 14:02:57,588 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-7
+2026-06-28 14:02:57,917 INFO o.a.j.t.JMeterThread: Thread started: Login 1-10
+2026-06-28 14:02:57,980 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-10
+2026-06-28 14:02:58,006 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-10
+2026-06-28 14:02:58,007 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-10
+2026-06-28 14:02:58,021 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-9
+2026-06-28 14:02:58,021 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-9
+2026-06-28 14:02:58,070 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-7
+2026-06-28 14:02:58,070 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-7
+2026-06-28 14:02:58,082 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-8
+2026-06-28 14:02:58,082 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-8
+2026-06-28 14:02:58,083 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-9
+2026-06-28 14:02:58,084 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-9
+2026-06-28 14:02:58,149 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-8
+2026-06-28 14:02:58,149 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-8
+2026-06-28 14:02:58,418 INFO o.a.j.t.JMeterThread: Thread started: Login 1-11
+2026-06-28 14:02:58,480 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-11
+2026-06-28 14:02:58,497 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-11
+2026-06-28 14:02:58,508 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-11
+2026-06-28 14:02:58,598 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-10
+2026-06-28 14:02:58,598 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-10
+2026-06-28 14:02:58,604 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-9
+2026-06-28 14:02:58,604 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-9
+2026-06-28 14:02:58,608 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-10
+2026-06-28 14:02:58,608 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-10
+2026-06-28 14:02:58,915 INFO o.a.j.t.JMeterThread: Thread started: Login 1-12
+2026-06-28 14:02:58,980 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-12
+2026-06-28 14:02:58,999 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-12
+2026-06-28 14:02:59,008 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-12
+2026-06-28 14:02:59,034 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-11
+2026-06-28 14:02:59,034 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-11
+2026-06-28 14:02:59,079 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-9
+2026-06-28 14:02:59,079 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-9
+2026-06-28 14:02:59,084 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-11
+2026-06-28 14:02:59,084 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-11
+2026-06-28 14:02:59,204 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-10
+2026-06-28 14:02:59,204 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-10
+2026-06-28 14:02:59,415 INFO o.a.j.t.JMeterThread: Thread started: Login 1-13
+2026-06-28 14:02:59,457 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-10
+2026-06-28 14:02:59,457 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-10
+2026-06-28 14:02:59,482 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-13
+2026-06-28 14:02:59,499 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-13
+2026-06-28 14:02:59,506 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-13
+2026-06-28 14:02:59,553 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-11
+2026-06-28 14:02:59,553 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-11
+2026-06-28 14:02:59,594 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-12
+2026-06-28 14:02:59,595 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-12
+2026-06-28 14:02:59,596 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-12
+2026-06-28 14:02:59,596 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-12
+2026-06-28 14:02:59,628 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-11
+2026-06-28 14:02:59,628 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-11
+2026-06-28 14:02:59,914 INFO o.a.j.t.JMeterThread: Thread started: Login 1-14
+2026-06-28 14:02:59,981 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-14
+2026-06-28 14:02:59,996 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-14
+2026-06-28 14:03:00,007 INFO o.a.j.r.Summariser: summary +    248 in 00:00:07 =   37.4/s Avg:   216 Min:    75 Max:  1667 Err:     0 (0.00%) Active: 9 Started: 55 Finished: 46
+2026-06-28 14:03:00,014 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-14
+2026-06-28 14:03:00,052 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-12
+2026-06-28 14:03:00,053 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-12
+2026-06-28 14:03:00,112 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-13
+2026-06-28 14:03:00,112 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-13
+2026-06-28 14:03:00,133 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-13
+2026-06-28 14:03:00,133 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-13
+2026-06-28 14:03:00,141 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-12
+2026-06-28 14:03:00,141 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-12
+2026-06-28 14:03:00,414 INFO o.a.j.t.JMeterThread: Thread started: Login 1-15
+2026-06-28 14:03:00,480 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-15
+2026-06-28 14:03:00,496 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-15
+2026-06-28 14:03:00,508 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-15
+2026-06-28 14:03:00,563 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-13
+2026-06-28 14:03:00,563 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-13
+2026-06-28 14:03:00,563 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-14
+2026-06-28 14:03:00,564 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-14
+2026-06-28 14:03:00,565 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-14
+2026-06-28 14:03:00,565 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-14
+2026-06-28 14:03:00,661 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-13
+2026-06-28 14:03:00,661 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-13
+2026-06-28 14:03:00,915 INFO o.a.j.t.JMeterThread: Thread started: Login 1-16
+2026-06-28 14:03:00,980 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-16
+2026-06-28 14:03:01,008 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-16
+2026-06-28 14:03:01,008 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-16
+2026-06-28 14:03:01,034 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-14
+2026-06-28 14:03:01,034 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-14
+2026-06-28 14:03:01,106 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-15
+2026-06-28 14:03:01,106 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-15
+2026-06-28 14:03:01,108 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-15
+2026-06-28 14:03:01,108 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-15
+2026-06-28 14:03:01,165 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-14
+2026-06-28 14:03:01,166 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-14
+2026-06-28 14:03:01,420 INFO o.a.j.t.JMeterThread: Thread started: Login 1-17
+2026-06-28 14:03:01,478 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-17
+2026-06-28 14:03:01,496 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-17
+2026-06-28 14:03:01,508 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-17
+2026-06-28 14:03:01,513 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-16
+2026-06-28 14:03:01,513 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-16
+2026-06-28 14:03:01,541 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-16
+2026-06-28 14:03:01,541 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-16
+2026-06-28 14:03:01,637 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-15
+2026-06-28 14:03:01,637 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-15
+2026-06-28 14:03:01,699 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-15
+2026-06-28 14:03:01,699 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-15
+2026-06-28 14:03:01,912 INFO o.a.j.t.JMeterThread: Thread started: Login 1-18
+2026-06-28 14:03:01,979 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-18
+2026-06-28 14:03:02,043 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-16
+2026-06-28 14:03:02,186 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-16
+2026-06-28 14:03:02,039 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-17
+2026-06-28 14:03:02,186 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-17
+2026-06-28 14:03:02,013 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-17
+2026-06-28 14:03:02,188 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-17
+2026-06-28 14:03:02,001 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-18
+2026-06-28 14:03:01,996 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-18
+2026-06-28 14:03:02,224 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-16
+2026-06-28 14:03:02,224 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-16
+2026-06-28 14:03:02,446 INFO o.a.j.t.JMeterThread: Thread started: Login 1-19
+2026-06-28 14:03:02,478 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-19
+2026-06-28 14:03:02,495 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-19
+2026-06-28 14:03:02,500 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-19
+2026-06-28 14:03:02,500 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-17
+2026-06-28 14:03:02,500 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-17
+2026-06-28 14:03:02,633 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-17
+2026-06-28 14:03:02,634 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-17
+2026-06-28 14:03:02,772 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-18
+2026-06-28 14:03:02,774 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-18
+2026-06-28 14:03:02,807 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-18
+2026-06-28 14:03:02,807 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-18
+2026-06-28 14:03:02,945 INFO o.a.j.t.JMeterThread: Thread started: Login 1-20
+2026-06-28 14:03:02,979 INFO o.a.j.t.JMeterThread: Thread started: Consulta de Porductos 2-20
+2026-06-28 14:03:02,996 INFO o.a.j.t.JMeterThread: Thread started: API pública (usuarios) 3-20
+2026-06-28 14:03:03,001 INFO o.a.j.t.JMeterThread: Thread started: Flujo de Compra 4-20
+2026-06-28 14:03:03,039 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-18
+2026-06-28 14:03:03,039 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-18
+2026-06-28 14:03:03,048 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-19
+2026-06-28 14:03:03,048 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-19
+2026-06-28 14:03:03,066 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-19
+2026-06-28 14:03:03,066 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-19
+2026-06-28 14:03:03,322 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-18
+2026-06-28 14:03:03,322 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-18
+2026-06-28 14:03:03,559 INFO o.a.j.t.JMeterThread: Thread is done: Consulta de Porductos 2-20
+2026-06-28 14:03:03,559 INFO o.a.j.t.JMeterThread: Thread finished: Consulta de Porductos 2-20
+2026-06-28 14:03:03,574 INFO o.a.j.t.JMeterThread: Thread is done: API pública (usuarios) 3-20
+2026-06-28 14:03:03,574 INFO o.a.j.t.JMeterThread: Thread finished: API pública (usuarios) 3-20
+2026-06-28 14:03:03,590 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-19
+2026-06-28 14:03:03,590 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-19
+2026-06-28 14:03:03,657 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-19
+2026-06-28 14:03:03,657 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-19
+2026-06-28 14:03:04,110 INFO o.a.j.t.JMeterThread: Thread is done: Login 1-20
+2026-06-28 14:03:04,110 INFO o.a.j.t.JMeterThread: Thread finished: Login 1-20
+2026-06-28 14:03:04,173 INFO o.a.j.t.JMeterThread: Thread is done: Flujo de Compra 4-20
+2026-06-28 14:03:04,173 INFO o.a.j.t.JMeterThread: Thread finished: Flujo de Compra 4-20
+2026-06-28 14:03:04,185 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-06-28 14:03:04,187 INFO o.a.j.r.Summariser: summary +    152 in 00:00:04 =   36.3/s Avg:   171 Min:    74 Max:   395 Err:     0 (0.00%) Active: 0 Started: 80 Finished: 80
+2026-06-28 14:03:04,190 INFO o.a.j.r.Summariser: summary =    400 in 00:00:11 =   37.0/s Avg:   199 Min:    74 Max:  1667 Err:     0 (0.00%)
+2026-06-28 14:03:04,192 INFO o.a.j.JMeter: Generating Dashboard
+2026-06-28 14:03:04,192 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2026-06-28 14:03:04,287 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2026-06-28 14:03:04,439 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2026-06-28 14:03:04,439 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2026-06-28 14:03:04,441 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2026-06-28 14:03:04,441 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2026-06-28 14:03:04,451 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2026-06-28 14:03:04,453 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2026-06-28 14:03:04,453 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2026-06-28 14:03:04,453 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2026-06-28 14:03:04,546 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2026-06-28 14:03:04,548 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2026-06-28 14:03:04,548 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2026-06-28 14:03:04,548 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2026-06-28 14:03:04,636 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2026-06-28 14:03:04,638 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 2800 samples
+2026-06-28 14:03:04,639 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2026-06-28 14:03:04,639 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2026-06-28 14:03:04,639 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2026-06-28 14:03:04,639 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2026-06-28 14:03:04,640 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2026-06-28 14:03:04,640 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2026-06-28 14:03:04,643 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 6000 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 1200 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 400 samples
+2026-06-28 14:03:04,645 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 400 samples produced in 319ms on channel 0
+2026-06-28 14:03:04,645 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2026-06-28 14:03:04,806 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2026-06-28 14:03:04,806 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2026-06-28 14:03:04,808 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2026-06-28 14:03:04,810 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2026-06-28 14:03:04,810 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report\statistics.json
+2026-06-28 14:03:04,942 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2026-06-28 14:03:04,961 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report
+2026-06-28 14:03:05,171 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report, creating folder structure
+2026-06-28 14:03:05,173 INFO o.a.j.r.d.TemplateVisitor: Copying folder from 'C:\apache-jmeter-5.6.3\bin\report-template' to 'G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report', got message: G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report, found non empty folder with following content [G:\AUTOMATIZACION\reto 5\qa-devops-ai-challenge\performance\jmeter\report\statistics.json], will be ignored
+2026-06-28 14:03:05,902 INFO o.a.j.JMeter: Dashboard generated

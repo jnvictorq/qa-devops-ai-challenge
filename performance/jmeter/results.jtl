@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1782669773676,1167,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-1,text,true,,42994,189,3,12,https://dummyjson.com/users,1144,0,1020
+1782669773676,1178,HTTP Request Productos,200,OK,Consulta de Porductos 2-1,text,true,,45185,192,3,12,https://dummyjson.com/products,1144,0,1020
+1782669774495,353,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-3,text,true,,43000,189,3,12,https://dummyjson.com/users,326,0,202
+1782669773998,848,HTTP Request Productos,200,OK,Consulta de Porductos 2-2,text,true,,45191,192,3,12,https://dummyjson.com/products,824,0,699
+1782669774482,373,HTTP Request Productos,200,OK,Consulta de Porductos 2-3,text,true,,45179,192,3,12,https://dummyjson.com/products,340,0,215
+1782669774017,828,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-2,text,true,,42997,189,3,12,https://dummyjson.com/users,811,0,680
+1782669774863,111,HTTP Request Productos,200,OK,Consulta de Porductos 2-2,text,true,,45185,192,3,13,https://dummyjson.com/products,75,0,0
+1782669774866,108,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-1,text,true,,42998,189,3,13,https://dummyjson.com/users,77,0,0
+1782669774863,114,HTTP Request Productos,200,OK,Consulta de Porductos 2-1,text,true,,45187,192,3,13,https://dummyjson.com/products,80,0,0
+1782669774865,114,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-3,text,true,,43004,189,3,13,https://dummyjson.com/users,82,0,0
+1782669774861,118,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-2,text,true,,43004,189,3,13,https://dummyjson.com/users,92,0,0
+1782669774860,119,HTTP Request Productos,200,OK,Consulta de Porductos 2-3,text,true,,45189,192,3,13,https://dummyjson.com/products,83,0,0
+1782669774978,98,HTTP Request Productos,200,OK,Consulta de Porductos 2-1,text,true,,45185,192,4,16,https://dummyjson.com/products,68,0,0
+1782669774975,101,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-1,text,true,,43000,189,4,16,https://dummyjson.com/users,75,0,0
+1782669774975,103,HTTP Request Productos,200,OK,Consulta de Porductos 2-2,text,true,,45189,192,4,16,https://dummyjson.com/products,75,0,0
+1782669774980,110,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-3,text,true,,42994,189,4,16,https://dummyjson.com/users,77,0,0
+1782669774980,117,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-2,text,true,,43000,189,4,16,https://dummyjson.com/users,104,0,0
+1782669774980,117,HTTP Request Productos,200,OK,Consulta de Porductos 2-3,text,true,,45181,192,4,16,https://dummyjson.com/products,91,0,0
+1782669775077,103,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-1,text,true,,42996,189,4,16,https://dummyjson.com/users,84,0,0
+1782669775078,102,HTTP Request Productos,200,OK,Consulta de Porductos 2-2,text,true,,45183,192,4,16,https://dummyjson.com/products,80,0,0
+1782669775077,111,HTTP Request Productos,200,OK,Consulta de Porductos 2-1,text,true,,45185,192,4,16,https://dummyjson.com/products,86,0,0
+1782669775092,102,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-3,text,true,,42998,189,4,16,https://dummyjson.com/users,95,0,0
+1782669775098,107,HTTP Request Productos,200,OK,Consulta de Porductos 2-3,text,true,,45181,192,4,16,https://dummyjson.com/products,92,0,0
+1782669775099,106,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-2,text,true,,43006,189,4,16,https://dummyjson.com/users,96,0,0
+1782669774983,273,HTTP Request Productos,200,OK,Consulta de Porductos 2-4,text,true,,45184,192,4,16,https://dummyjson.com/products,260,0,173
+1782669775183,101,HTTP Request Productos,200,OK,Consulta de Porductos 2-2,text,true,,45191,192,4,16,https://dummyjson.com/products,78,0,0
+1782669775181,103,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-1,text,true,,43000,189,4,16,https://dummyjson.com/users,84,0,0
+1782669775189,101,HTTP Request Productos,200,OK,Consulta de Porductos 2-1,text,true,,45183,192,3,14,https://dummyjson.com/products,78,0,0
+1782669775206,110,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-2,text,true,,43000,189,3,13,https://dummyjson.com/users,91,0,0
+1782669775195,122,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-3,text,true,,42996,189,2,12,https://dummyjson.com/users,89,0,0
+1782669775002,317,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-4,text,true,,42998,189,2,12,https://dummyjson.com/users,289,0,204
+1782669775206,120,HTTP Request Productos,200,OK,Consulta de Porductos 2-3,text,true,,45189,192,2,11,https://dummyjson.com/products,91,0,0
+1782669774025,1307,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-2,text,true,,1616,325,4,10,https://dummyjson.com/carts/add,1307,0,672
+1782669774516,822,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-3,text,true,,1620,325,4,10,https://dummyjson.com/carts/add,822,0,181
+1782669773674,1667,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-1,text,true,,1618,325,4,10,https://dummyjson.com/carts/add,1667,0,1022
+1782669775257,95,HTTP Request Productos,200,OK,Consulta de Porductos 2-4,text,true,,45187,192,1,10,https://dummyjson.com/products,74,0,0
+1782669774431,896,HTTP Request Login,200,OK,Login 1-3,text,true,,2905,266,4,11,https://dummyjson.com/auth/login,896,0,266
+1782669773675,1623,HTTP Request Login,200,OK,Login 1-1,text,true,,2910,266,4,13,https://dummyjson.com/auth/login,1621,0,1021
+1782669773940,1387,HTTP Request Login,200,OK,Login 1-2,text,true,,2911,266,4,11,https://dummyjson.com/auth/login,1387,0,757
+1782669775009,396,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-4,text,true,,1618,325,4,10,https://dummyjson.com/carts/add,396,0,184
+1782669775320,99,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-4,text,true,,42998,189,1,11,https://dummyjson.com/users,84,0,0
+1782669775353,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-4,text,true,,45185,192,1,11,https://dummyjson.com/products,83,0,0
+1782669775420,92,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-4,text,true,,43006,189,2,14,https://dummyjson.com/users,74,0,0
+1782669775333,195,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-2,text,true,,1624,325,5,14,https://dummyjson.com/carts/add,195,0,0
+1782669775440,90,HTTP Request Productos,200,OK,Consulta de Porductos 2-4,text,true,,45185,192,2,14,https://dummyjson.com/products,81,0,0
+1782669775342,199,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-1,text,true,,1622,325,5,14,https://dummyjson.com/carts/add,198,0,0
+1782669775339,204,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-3,text,true,,1614,325,5,14,https://dummyjson.com/carts/add,204,0,0
+1782669775394,186,HTTP Request Login,200,OK,Login 1-2,text,true,,2903,266,5,14,https://dummyjson.com/auth/login,186,0,0
+1782669775392,193,HTTP Request Login,200,OK,Login 1-3,text,true,,2911,266,5,14,https://dummyjson.com/auth/login,193,0,0
+1782669775393,199,HTTP Request Login,200,OK,Login 1-1,text,true,,2911,266,5,14,https://dummyjson.com/auth/login,199,0,0
+1782669775512,106,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-4,text,true,,43002,189,2,14,https://dummyjson.com/users,80,0,0
+1782669775531,89,HTTP Request Productos,200,OK,Consulta de Porductos 2-4,text,true,,45189,192,2,14,https://dummyjson.com/products,74,0,0
+1782669775406,214,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-4,text,true,,1624,325,5,14,https://dummyjson.com/carts/add,214,0,0
+1782669774917,749,HTTP Request Login,200,OK,Login 1-4,text,true,,2911,266,5,13,https://dummyjson.com/auth/login,749,0,171
+1782669775619,86,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-4,text,true,,43000,189,2,13,https://dummyjson.com/users,71,0,0
+1782669775500,221,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-5,text,true,,43000,189,1,12,https://dummyjson.com/users,207,0,139
+1782669775529,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-2,text,true,,1620,325,5,12,https://dummyjson.com/carts/add,197,0,0
+1782669775484,243,HTTP Request Productos,200,OK,Consulta de Porductos 2-5,text,true,,45181,192,1,12,https://dummyjson.com/products,230,0,150
+1782669775541,195,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-1,text,true,,1620,325,5,12,https://dummyjson.com/carts/add,195,0,0
+1782669775544,204,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-3,text,true,,1618,325,5,12,https://dummyjson.com/carts/add,204,0,0
+1782669775581,191,HTTP Request Login,200,OK,Login 1-2,text,true,,2913,266,5,12,https://dummyjson.com/auth/login,191,0,0
+1782669775413,359,HTTP Request Login,200,OK,Login 1-5,text,true,,2902,266,5,12,https://dummyjson.com/auth/login,359,0,154
+1782669775587,197,HTTP Request Login,200,OK,Login 1-3,text,true,,2907,266,5,12,https://dummyjson.com/auth/login,197,0,0
+1782669775593,199,HTTP Request Login,200,OK,Login 1-1,text,true,,2899,266,5,12,https://dummyjson.com/auth/login,199,0,0
+1782669775722,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-5,text,true,,43006,189,1,12,https://dummyjson.com/users,73,0,0
+1782669775727,84,HTTP Request Productos,200,OK,Consulta de Porductos 2-5,text,true,,45191,192,1,12,https://dummyjson.com/products,69,0,0
+1782669775621,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-4,text,true,,1626,325,5,12,https://dummyjson.com/carts/add,198,0,0
+1782669775509,335,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-5,text,true,,1616,325,5,12,https://dummyjson.com/carts/add,335,0,138
+1782669775667,194,HTTP Request Login,200,OK,Login 1-4,text,true,,2907,266,5,12,https://dummyjson.com/auth/login,193,0,0
+1782669775810,87,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-5,text,true,,42996,189,1,12,https://dummyjson.com/users,72,0,0
+1782669775812,98,HTTP Request Productos,200,OK,Consulta de Porductos 2-5,text,true,,45185,192,1,12,https://dummyjson.com/products,78,0,0
+1782669775727,192,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-2,text,true,,1618,325,5,13,https://dummyjson.com/carts/add,192,0,0
+1782669775737,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-1,text,true,,1616,325,5,13,https://dummyjson.com/carts/add,197,0,0
+1782669775749,199,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-3,text,true,,1620,325,5,13,https://dummyjson.com/carts/add,199,0,0
+1782669775773,192,HTTP Request Login,200,OK,Login 1-2,text,true,,2905,266,6,13,https://dummyjson.com/auth/login,192,0,0
+1782669775773,199,HTTP Request Login,200,OK,Login 1-5,text,true,,2911,266,6,13,https://dummyjson.com/auth/login,199,0,0
+1782669775785,197,HTTP Request Login,200,OK,Login 1-3,text,true,,2905,266,6,13,https://dummyjson.com/auth/login,197,0,0
+1782669775897,89,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-5,text,true,,43000,189,1,14,https://dummyjson.com/users,79,0,0
+1782669775793,197,HTTP Request Login,200,OK,Login 1-1,text,true,,2905,266,6,14,https://dummyjson.com/auth/login,197,0,0
+1782669775911,89,HTTP Request Productos,200,OK,Consulta de Porductos 2-5,text,true,,45189,192,2,15,https://dummyjson.com/products,76,0,0
+1782669775820,210,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-4,text,true,,1620,325,6,16,https://dummyjson.com/carts/add,209,0,0
+1782669775846,192,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-5,text,true,,1618,325,6,16,https://dummyjson.com/carts/add,192,0,0
+1782669775861,195,HTTP Request Login,200,OK,Login 1-4,text,true,,2905,266,6,16,https://dummyjson.com/auth/login,195,0,0
+1782669775987,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-5,text,true,,43000,189,2,16,https://dummyjson.com/users,71,0,0
+1782669776000,90,HTTP Request Productos,200,OK,Consulta de Porductos 2-5,text,true,,45177,192,2,15,https://dummyjson.com/products,87,0,0
+1782669775919,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-2,text,true,,1622,325,6,14,https://dummyjson.com/carts/add,198,0,0
+1782669775935,197,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-1,text,true,,1614,325,5,13,https://dummyjson.com/carts/add,197,0,0
+1782669775949,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-3,text,true,,1626,325,4,12,https://dummyjson.com/carts/add,197,0,0
+1782669775966,194,HTTP Request Login,200,OK,Login 1-2,text,true,,2905,266,6,11,https://dummyjson.com/auth/login,194,0,0
+1782669775973,202,HTTP Request Login,200,OK,Login 1-5,text,true,,2909,266,5,10,https://dummyjson.com/auth/login,202,0,0
+1782669775983,193,HTTP Request Login,200,OK,Login 1-3,text,true,,2903,266,5,10,https://dummyjson.com/auth/login,192,0,0
+1782669775991,194,HTTP Request Login,200,OK,Login 1-1,text,true,,2901,266,4,9,https://dummyjson.com/auth/login,194,0,0
+1782669775987,229,HTTP Request Productos,200,OK,Consulta de Porductos 2-6,text,true,,45183,192,1,8,https://dummyjson.com/products,226,0,142
+1782669775999,229,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-6,text,true,,42998,189,1,8,https://dummyjson.com/users,214,0,145
+1782669776030,205,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-4,text,true,,1622,325,3,8,https://dummyjson.com/carts/add,204,0,0
+1782669776038,199,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-5,text,true,,1616,325,2,7,https://dummyjson.com/carts/add,198,0,0
+1782669776058,202,HTTP Request Login,200,OK,Login 1-4,text,true,,2905,266,3,7,https://dummyjson.com/auth/login,202,0,0
+1782669775912,364,HTTP Request Login,200,OK,Login 1-6,text,true,,2905,266,3,7,https://dummyjson.com/auth/login,364,0,164
+1782669776217,78,HTTP Request Productos,200,OK,Consulta de Porductos 2-6,text,true,,45187,192,1,7,https://dummyjson.com/products,66,0,0
+1782669776229,93,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-6,text,true,,42996,189,1,7,https://dummyjson.com/users,83,0,0
+1782669776175,196,HTTP Request Login,200,OK,Login 1-5,text,true,,2907,266,3,7,https://dummyjson.com/auth/login,196,0,0
+1782669776295,79,HTTP Request Productos,200,OK,Consulta de Porductos 2-6,text,true,,45197,192,1,7,https://dummyjson.com/products,67,0,0
+1782669776008,366,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-6,text,true,,1618,325,2,7,https://dummyjson.com/carts/add,366,0,160
+1782669776322,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-6,text,true,,42996,189,1,7,https://dummyjson.com/users,75,0,0
+1782669776237,194,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-5,text,true,,1618,325,2,8,https://dummyjson.com/carts/add,193,0,0
+1782669776261,189,HTTP Request Login,200,OK,Login 1-4,text,true,,2911,266,4,8,https://dummyjson.com/auth/login,189,0,0
+1782669776375,77,HTTP Request Productos,200,OK,Consulta de Porductos 2-6,text,true,,45181,192,1,7,https://dummyjson.com/products,66,0,0
+1782669776277,195,HTTP Request Login,200,OK,Login 1-6,text,true,,2907,266,3,7,https://dummyjson.com/auth/login,194,0,0
+1782669776411,85,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-6,text,true,,43000,189,1,8,https://dummyjson.com/users,72,0,0
+1782669776452,81,HTTP Request Productos,200,OK,Consulta de Porductos 2-6,text,true,,45191,192,2,8,https://dummyjson.com/products,69,0,0
+1782669776372,198,HTTP Request Login,200,OK,Login 1-5,text,true,,2907,266,3,8,https://dummyjson.com/auth/login,198,0,0
+1782669776375,200,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-6,text,true,,1622,325,2,8,https://dummyjson.com/carts/add,200,0,0
+1782669776496,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-6,text,true,,42996,189,1,8,https://dummyjson.com/users,77,0,0
+1782669776431,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-5,text,true,,1616,325,2,8,https://dummyjson.com/carts/add,197,0,0
+1782669776473,193,HTTP Request Login,200,OK,Login 1-6,text,true,,2915,266,3,8,https://dummyjson.com/auth/login,193,0,0
+1782669776491,238,HTTP Request Productos,200,OK,Consulta de Porductos 2-7,text,true,,45183,192,2,8,https://dummyjson.com/products,229,0,147
+1782669776576,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-6,text,true,,1622,325,2,8,https://dummyjson.com/carts/add,195,0,0
+1782669776418,358,HTTP Request Login,200,OK,Login 1-7,text,true,,2912,266,3,8,https://dummyjson.com/auth/login,358,0,151
+1782669776730,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-7,text,true,,45193,192,2,8,https://dummyjson.com/products,70,0,0
+1782669776667,196,HTTP Request Login,200,OK,Login 1-6,text,true,,2905,266,3,8,https://dummyjson.com/auth/login,195,0,0
+1782669776816,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-7,text,true,,45187,192,2,8,https://dummyjson.com/products,72,0,0
+1782669776772,197,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-6,text,true,,1618,325,2,7,https://dummyjson.com/carts/add,197,0,0
+1782669776777,204,HTTP Request Login,200,OK,Login 1-7,text,true,,2909,266,3,7,https://dummyjson.com/auth/login,204,0,0
+1782669776940,82,HTTP Request Productos,200,OK,Consulta de Porductos 2-7,text,true,,45197,192,2,10,https://dummyjson.com/products,72,0,0
+1782669776864,195,HTTP Request Login,200,OK,Login 1-6,text,true,,2913,266,3,10,https://dummyjson.com/auth/login,195,0,0
+1782669777023,85,HTTP Request Productos,200,OK,Consulta de Porductos 2-7,text,true,,45185,192,2,9,https://dummyjson.com/products,80,0,0
+1782669776971,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-6,text,true,,1616,325,3,8,https://dummyjson.com/carts/add,196,0,0
+1782669776944,242,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-7,text,true,,43004,189,2,7,https://dummyjson.com/users,231,0,151
+1782669776982,204,HTTP Request Login,200,OK,Login 1-7,text,true,,2905,266,2,7,https://dummyjson.com/auth/login,204,0,0
+1782669776985,204,HTTP Request Productos,200,OK,Consulta de Porductos 2-8,text,true,,45189,192,1,7,https://dummyjson.com/products,196,0,133
+1782669777003,223,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-8,text,true,,42992,189,2,7,https://dummyjson.com/users,215,0,143
+1782669777190,79,HTTP Request Productos,200,OK,Consulta de Porductos 2-8,text,true,,45181,192,1,7,https://dummyjson.com/products,70,0,0
+1782669776945,334,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-7,text,true,,1616,325,2,7,https://dummyjson.com/carts/add,334,0,128
+1782669777187,96,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-7,text,true,,42998,189,2,7,https://dummyjson.com/users,82,0,0
+1782669776940,355,HTTP Request Login,200,OK,Login 1-8,text,true,,2905,266,2,7,https://dummyjson.com/auth/login,354,0,156
+1782669777227,78,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-8,text,true,,42998,189,2,7,https://dummyjson.com/users,68,0,0
+1782669777011,330,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-8,text,true,,1624,325,2,7,https://dummyjson.com/carts/add,330,0,132
+1782669777269,77,HTTP Request Productos,200,OK,Consulta de Porductos 2-8,text,true,,45185,192,1,7,https://dummyjson.com/products,70,0,0
+1782669777283,89,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-7,text,true,,43002,189,2,7,https://dummyjson.com/users,80,0,0
+1782669777187,204,HTTP Request Login,200,OK,Login 1-7,text,true,,2905,266,2,7,https://dummyjson.com/auth/login,203,0,0
+1782669777306,86,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-8,text,true,,42996,189,2,7,https://dummyjson.com/users,76,0,0
+1782669777347,82,HTTP Request Productos,200,OK,Consulta de Porductos 2-8,text,true,,45187,192,1,8,https://dummyjson.com/products,68,0,0
+1782669777373,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-7,text,true,,43006,189,2,8,https://dummyjson.com/users,74,0,0
+1782669777392,79,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-8,text,true,,42994,189,2,8,https://dummyjson.com/users,74,0,0
+1782669777279,200,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-7,text,true,,1624,325,2,8,https://dummyjson.com/carts/add,200,0,0
+1782669777295,194,HTTP Request Login,200,OK,Login 1-8,text,true,,2911,266,3,9,https://dummyjson.com/auth/login,194,0,0
+1782669777429,75,HTTP Request Productos,200,OK,Consulta de Porductos 2-8,text,true,,45187,192,2,10,https://dummyjson.com/products,64,0,0
+1782669777342,190,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-8,text,true,,1614,325,3,10,https://dummyjson.com/carts/add,190,0,0
+1782669777472,81,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-8,text,true,,43000,189,3,10,https://dummyjson.com/users,66,0,0
+1782669777463,93,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-7,text,true,,43008,189,2,9,https://dummyjson.com/users,82,0,0
+1782669777391,197,HTTP Request Login,200,OK,Login 1-7,text,true,,2903,266,3,8,https://dummyjson.com/auth/login,197,0,0
+1782669777480,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-7,text,true,,1618,325,3,7,https://dummyjson.com/carts/add,197,0,0
+1782669777489,197,HTTP Request Login,200,OK,Login 1-8,text,true,,2903,266,2,7,https://dummyjson.com/auth/login,197,0,0
+1782669777482,217,HTTP Request Productos,200,OK,Consulta de Porductos 2-9,text,true,,45185,192,1,7,https://dummyjson.com/products,207,0,136
+1782669777532,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-8,text,true,,1618,325,3,7,https://dummyjson.com/carts/add,196,0,0
+1782669777498,230,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-9,text,true,,43000,189,1,7,https://dummyjson.com/users,225,0,142
+1782669777420,359,HTTP Request Login,200,OK,Login 1-9,text,true,,2911,266,2,7,https://dummyjson.com/auth/login,359,0,155
+1782669777700,85,HTTP Request Productos,200,OK,Consulta de Porductos 2-9,text,true,,45181,192,1,7,https://dummyjson.com/products,73,0,0
+1782669777729,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-9,text,true,,43000,189,1,7,https://dummyjson.com/users,78,0,0
+1782669777786,77,HTTP Request Productos,200,OK,Consulta de Porductos 2-9,text,true,,45185,192,1,7,https://dummyjson.com/products,65,0,0
+1782669777678,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-7,text,true,,1620,325,3,7,https://dummyjson.com/carts/add,196,0,0
+1782669777686,197,HTTP Request Login,200,OK,Login 1-8,text,true,,2907,266,2,7,https://dummyjson.com/auth/login,197,0,0
+1782669777819,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-9,text,true,,43000,189,1,7,https://dummyjson.com/users,75,0,0
+1782669777729,197,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-8,text,true,,1616,325,3,8,https://dummyjson.com/carts/add,197,0,0
+1782669777864,80,HTTP Request Productos,200,OK,Consulta de Porductos 2-9,text,true,,45183,192,1,8,https://dummyjson.com/products,66,0,0
+1782669777780,204,HTTP Request Login,200,OK,Login 1-9,text,true,,2907,266,3,9,https://dummyjson.com/auth/login,204,0,0
+1782669777908,87,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-9,text,true,,42992,189,1,9,https://dummyjson.com/users,76,0,0
+1782669777944,77,HTTP Request Productos,200,OK,Consulta de Porductos 2-9,text,true,,45181,192,2,11,https://dummyjson.com/products,68,0,0
+1782669777875,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-7,text,true,,1622,325,4,10,https://dummyjson.com/carts/add,196,0,0
+1782669777884,199,HTTP Request Login,200,OK,Login 1-8,text,true,,2911,266,3,9,https://dummyjson.com/auth/login,198,0,0
+1782669777996,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-9,text,true,,42998,189,2,9,https://dummyjson.com/users,75,0,0
+1782669777927,222,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-8,text,true,,1624,325,3,7,https://dummyjson.com/carts/add,222,0,0
+1782669777985,207,HTTP Request Login,200,OK,Login 1-9,text,true,,2911,266,2,6,https://dummyjson.com/auth/login,207,0,0
+1782669778011,232,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-10,text,true,,42998,189,1,6,https://dummyjson.com/users,222,0,147
+1782669777983,271,HTTP Request Productos,200,OK,Consulta de Porductos 2-10,text,true,,45179,192,1,6,https://dummyjson.com/products,255,0,170
+1782669777510,745,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-9,text,true,,1622,325,2,6,https://dummyjson.com/carts/add,745,0,144
+1782669778244,87,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-10,text,true,,43002,189,1,6,https://dummyjson.com/users,74,0,0
+1782669778255,87,HTTP Request Productos,200,OK,Consulta de Porductos 2-10,text,true,,45181,192,1,6,https://dummyjson.com/products,75,0,0
+1782669778011,353,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-10,text,true,,1620,325,2,6,https://dummyjson.com/carts/add,353,0,147
+1782669778193,205,HTTP Request Login,200,OK,Login 1-9,text,true,,2909,266,2,6,https://dummyjson.com/auth/login,205,0,0
+1782669778332,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-10,text,true,,42996,189,1,7,https://dummyjson.com/users,74,0,0
+1782669778343,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-10,text,true,,45181,192,1,7,https://dummyjson.com/products,74,0,0
+1782669778255,203,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-9,text,true,,1626,325,2,7,https://dummyjson.com/carts/add,203,0,0
+1782669778421,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-10,text,true,,42998,189,2,9,https://dummyjson.com/users,74,0,0
+1782669778430,90,HTTP Request Productos,200,OK,Consulta de Porductos 2-10,text,true,,45195,192,2,10,https://dummyjson.com/products,76,0,0
+1782669778364,203,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-10,text,true,,1622,325,3,10,https://dummyjson.com/carts/add,203,0,0
+1782669778510,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-10,text,true,,43002,189,2,10,https://dummyjson.com/users,74,0,0
+1782669778399,205,HTTP Request Login,200,OK,Login 1-9,text,true,,2907,266,3,9,https://dummyjson.com/auth/login,205,0,0
+1782669778520,88,HTTP Request Productos,200,OK,Consulta de Porductos 2-10,text,true,,45189,192,2,8,https://dummyjson.com/products,77,0,0
+1782669777920,732,HTTP Request Login,200,OK,Login 1-10,text,true,,2909,266,2,7,https://dummyjson.com/auth/login,732,0,149
+1782669778458,210,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-9,text,true,,1630,325,3,7,https://dummyjson.com/carts/add,210,0,0
+1782669778500,219,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-11,text,true,,43006,189,1,7,https://dummyjson.com/users,213,0,142
+1782669778483,236,HTTP Request Productos,200,OK,Consulta de Porductos 2-11,text,true,,45187,192,1,7,https://dummyjson.com/products,225,0,150
+1782669778420,347,HTTP Request Login,200,OK,Login 1-11,text,true,,2913,266,2,7,https://dummyjson.com/auth/login,347,0,152
+1782669778568,215,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-10,text,true,,1616,325,3,7,https://dummyjson.com/carts/add,215,0,0
+1782669778720,79,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-11,text,true,,42998,189,1,7,https://dummyjson.com/users,65,0,0
+1782669778720,85,HTTP Request Productos,200,OK,Consulta de Porductos 2-11,text,true,,45181,192,1,7,https://dummyjson.com/products,76,0,0
+1782669778653,191,HTTP Request Login,200,OK,Login 1-10,text,true,,2907,266,2,7,https://dummyjson.com/auth/login,191,0,0
+1782669778511,337,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-11,text,true,,1614,325,3,7,https://dummyjson.com/carts/add,337,0,146
+1782669778669,201,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-9,text,true,,1618,325,3,7,https://dummyjson.com/carts/add,199,0,0
+1782669778799,77,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-11,text,true,,42994,189,1,7,https://dummyjson.com/users,64,0,0
+1782669778805,100,HTTP Request Productos,200,OK,Consulta de Porductos 2-11,text,true,,45185,192,1,7,https://dummyjson.com/products,85,0,0
+1782669778877,76,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-11,text,true,,43004,189,1,8,https://dummyjson.com/users,66,0,0
+1782669778768,193,HTTP Request Login,200,OK,Login 1-11,text,true,,2901,266,3,8,https://dummyjson.com/auth/login,193,0,0
+1782669778783,214,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-10,text,true,,1624,325,3,9,https://dummyjson.com/carts/add,214,0,0
+1782669778905,92,HTTP Request Productos,200,OK,Consulta de Porductos 2-11,text,true,,45187,192,2,9,https://dummyjson.com/products,75,0,0
+1782669778954,80,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-11,text,true,,42994,189,2,11,https://dummyjson.com/users,69,0,0
+1782669778848,186,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-11,text,true,,1622,325,4,11,https://dummyjson.com/carts/add,186,0,0
+1782669778845,198,HTTP Request Login,200,OK,Login 1-10,text,true,,2905,266,3,10,https://dummyjson.com/auth/login,198,0,0
+1782669778871,208,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-9,text,true,,1622,325,4,10,https://dummyjson.com/carts/add,208,0,0
+1782669778997,87,HTTP Request Productos,200,OK,Consulta de Porductos 2-11,text,true,,45181,192,2,9,https://dummyjson.com/products,78,0,0
+1782669778963,194,HTTP Request Login,200,OK,Login 1-11,text,true,,2903,266,3,8,https://dummyjson.com/auth/login,194,0,0
+1782669778997,207,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-10,text,true,,1618,325,3,8,https://dummyjson.com/carts/add,207,0,0
+1782669778983,249,HTTP Request Productos,200,OK,Consulta de Porductos 2-12,text,true,,45183,192,1,7,https://dummyjson.com/products,237,0,149
+1782669779000,239,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-12,text,true,,42998,189,1,7,https://dummyjson.com/users,227,0,149
+1782669779035,215,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-11,text,true,,1618,325,2,7,https://dummyjson.com/carts/add,215,0,0
+1782669778917,336,HTTP Request Login,200,OK,Login 1-12,text,true,,2903,266,3,7,https://dummyjson.com/auth/login,336,0,139
+1782669779044,216,HTTP Request Login,200,OK,Login 1-10,text,true,,2901,266,3,7,https://dummyjson.com/auth/login,216,0,0
+1782669779233,94,HTTP Request Productos,200,OK,Consulta de Porductos 2-12,text,true,,45185,192,1,7,https://dummyjson.com/products,74,0,0
+1782669779239,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-12,text,true,,42996,189,1,7,https://dummyjson.com/users,73,0,0
+1782669779158,199,HTTP Request Login,200,OK,Login 1-11,text,true,,2907,266,3,7,https://dummyjson.com/auth/login,199,0,0
+1782669779010,349,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-12,text,true,,1618,325,2,7,https://dummyjson.com/carts/add,349,0,152
+1782669779327,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-12,text,true,,43000,189,1,8,https://dummyjson.com/users,74,0,0
+1782669779327,91,HTTP Request Productos,200,OK,Consulta de Porductos 2-12,text,true,,45183,192,1,8,https://dummyjson.com/products,77,0,0
+1782669779250,187,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-11,text,true,,1630,325,2,8,https://dummyjson.com/carts/add,187,0,0
+1782669779261,196,HTTP Request Login,200,OK,Login 1-10,text,true,,2909,266,4,8,https://dummyjson.com/auth/login,195,0,0
+1782669779255,202,HTTP Request Login,200,OK,Login 1-12,text,true,,2905,266,4,8,https://dummyjson.com/auth/login,201,0,0
+1782669779418,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-12,text,true,,43002,189,2,9,https://dummyjson.com/users,75,0,0
+1782669779418,88,HTTP Request Productos,200,OK,Consulta de Porductos 2-12,text,true,,45185,192,2,9,https://dummyjson.com/products,75,0,0
+1782669779360,190,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-12,text,true,,1622,325,3,10,https://dummyjson.com/carts/add,190,0,0
+1782669779358,195,HTTP Request Login,200,OK,Login 1-11,text,true,,2901,266,3,10,https://dummyjson.com/auth/login,195,0,0
+1782669779507,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-12,text,true,,43008,189,2,9,https://dummyjson.com/users,74,0,0
+1782669779507,90,HTTP Request Productos,200,OK,Consulta de Porductos 2-12,text,true,,45185,192,2,8,https://dummyjson.com/products,74,0,0
+1782669779437,191,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-11,text,true,,1620,325,3,7,https://dummyjson.com/carts/add,191,0,0
+1782669779458,196,HTTP Request Login,200,OK,Login 1-12,text,true,,2911,266,2,6,https://dummyjson.com/auth/login,196,0,0
+1782669779485,236,HTTP Request Productos,200,OK,Consulta de Porductos 2-13,text,true,,45185,192,1,6,https://dummyjson.com/products,226,0,151
+1782669779551,204,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-12,text,true,,1624,325,2,6,https://dummyjson.com/carts/add,204,0,0
+1782669779504,261,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-13,text,true,,42996,189,1,6,https://dummyjson.com/users,252,0,167
+1782669779416,351,HTTP Request Login,200,OK,Login 1-13,text,true,,2913,266,2,6,https://dummyjson.com/auth/login,351,0,157
+1782669779721,98,HTTP Request Productos,200,OK,Consulta de Porductos 2-13,text,true,,45185,192,1,6,https://dummyjson.com/products,83,0,0
+1782669779655,197,HTTP Request Login,200,OK,Login 1-12,text,true,,2905,266,2,6,https://dummyjson.com/auth/login,196,0,0
+1782669779766,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-13,text,true,,43008,189,1,6,https://dummyjson.com/users,85,0,0
+1782669779509,363,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-13,text,true,,1616,325,2,6,https://dummyjson.com/carts/add,363,0,166
+1782669779819,89,HTTP Request Productos,200,OK,Consulta de Porductos 2-13,text,true,,45189,192,1,6,https://dummyjson.com/products,80,0,0
+1782669779854,89,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-13,text,true,,42996,189,1,7,https://dummyjson.com/users,75,0,0
+1782669779756,191,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-12,text,true,,1624,325,2,7,https://dummyjson.com/carts/add,191,0,0
+1782669779768,196,HTTP Request Login,200,OK,Login 1-13,text,true,,2909,266,3,7,https://dummyjson.com/auth/login,196,0,0
+1782669779908,93,HTTP Request Productos,200,OK,Consulta de Porductos 2-13,text,true,,45181,192,2,9,https://dummyjson.com/products,78,0,0
+1782669779944,99,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-13,text,true,,43004,189,2,10,https://dummyjson.com/users,89,0,0
+1782669779852,200,HTTP Request Login,200,OK,Login 1-12,text,true,,2899,266,3,10,https://dummyjson.com/auth/login,200,0,0
+1782669779872,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-13,text,true,,1622,325,3,9,https://dummyjson.com/carts/add,196,0,0
+1782669780015,98,HTTP Request Productos,200,OK,Consulta de Porductos 2-13,text,true,,45187,192,2,9,https://dummyjson.com/products,83,0,0
+1782669780043,91,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-13,text,true,,43002,189,2,8,https://dummyjson.com/users,87,0,0
+1782669779947,195,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-12,text,true,,1616,325,3,7,https://dummyjson.com/carts/add,195,0,0
+1782669779965,198,HTTP Request Login,200,OK,Login 1-13,text,true,,2909,266,2,6,https://dummyjson.com/auth/login,198,0,0
+1782669779999,220,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-14,text,true,,43000,189,1,6,https://dummyjson.com/users,206,0,140
+1782669779984,236,HTTP Request Productos,200,OK,Consulta de Porductos 2-14,text,true,,45183,192,1,6,https://dummyjson.com/products,227,0,151
+1782669779916,346,HTTP Request Login,200,OK,Login 1-14,text,true,,2913,266,2,6,https://dummyjson.com/auth/login,346,0,152
+1782669780068,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-13,text,true,,1620,325,2,6,https://dummyjson.com/carts/add,196,0,0
+1782669780219,92,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-14,text,true,,43000,189,1,6,https://dummyjson.com/users,74,0,0
+1782669780221,90,HTTP Request Productos,200,OK,Consulta de Porductos 2-14,text,true,,45191,192,1,6,https://dummyjson.com/products,77,0,0
+1782669780164,196,HTTP Request Login,200,OK,Login 1-13,text,true,,2905,266,2,6,https://dummyjson.com/auth/login,196,0,0
+1782669780034,347,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-14,text,true,,1624,325,2,6,https://dummyjson.com/carts/add,347,0,152
+1782669780311,87,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-14,text,true,,43002,189,1,6,https://dummyjson.com/users,70,0,0
+1782669780311,87,HTTP Request Productos,200,OK,Consulta de Porductos 2-14,text,true,,45187,192,1,6,https://dummyjson.com/products,74,0,0
+1782669780263,193,HTTP Request Login,200,OK,Login 1-14,text,true,,2911,266,3,7,https://dummyjson.com/auth/login,193,0,0
+1782669780265,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-13,text,true,,1616,325,2,7,https://dummyjson.com/carts/add,196,0,0
+1782669780399,84,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-14,text,true,,43002,189,1,8,https://dummyjson.com/users,70,0,0
+1782669780399,85,HTTP Request Productos,200,OK,Consulta de Porductos 2-14,text,true,,45181,192,2,8,https://dummyjson.com/products,72,0,0
+1782669780361,202,HTTP Request Login,200,OK,Login 1-13,text,true,,2905,266,3,10,https://dummyjson.com/auth/login,199,0,0
+1782669780484,80,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-14,text,true,,43004,189,2,10,https://dummyjson.com/users,64,0,0
+1782669780484,81,HTTP Request Productos,200,OK,Consulta de Porductos 2-14,text,true,,45191,192,2,9,https://dummyjson.com/products,68,0,0
+1782669780382,192,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-14,text,true,,1626,325,3,7,https://dummyjson.com/carts/add,192,0,0
+1782669780457,194,HTTP Request Login,200,OK,Login 1-14,text,true,,2907,266,2,7,https://dummyjson.com/auth/login,194,0,0
+1782669780462,199,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-13,text,true,,1618,325,3,7,https://dummyjson.com/carts/add,199,0,0
+1782669780483,252,HTTP Request Productos,200,OK,Consulta de Porductos 2-15,text,true,,45185,192,1,6,https://dummyjson.com/products,237,0,161
+1782669780499,236,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-15,text,true,,43002,189,1,6,https://dummyjson.com/users,229,0,145
+1782669780575,197,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-14,text,true,,1628,325,2,6,https://dummyjson.com/carts/add,197,0,0
+1782669780417,395,HTTP Request Login,200,OK,Login 1-15,text,true,,2903,266,2,6,https://dummyjson.com/auth/login,394,0,177
+1782669780736,88,HTTP Request Productos,200,OK,Consulta de Porductos 2-15,text,true,,45181,192,1,6,https://dummyjson.com/products,75,0,0
+1782669780736,88,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-15,text,true,,42998,189,1,6,https://dummyjson.com/users,74,0,0
+1782669780652,190,HTTP Request Login,200,OK,Login 1-14,text,true,,2915,266,2,6,https://dummyjson.com/auth/login,189,0,0
+1782669780512,364,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-15,text,true,,1616,325,2,6,https://dummyjson.com/carts/add,364,0,156
+1782669780825,109,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-15,text,true,,43002,189,1,7,https://dummyjson.com/users,72,0,0
+1782669780825,109,HTTP Request Productos,200,OK,Consulta de Porductos 2-15,text,true,,45191,192,1,7,https://dummyjson.com/products,74,0,0
+1782669780773,197,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-14,text,true,,1616,325,2,7,https://dummyjson.com/carts/add,197,0,0
+1782669780812,209,HTTP Request Login,200,OK,Login 1-15,text,true,,2905,266,3,10,https://dummyjson.com/auth/login,209,0,0
+1782669780935,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-15,text,true,,43000,189,2,10,https://dummyjson.com/users,73,0,0
+1782669780935,90,HTTP Request Productos,200,OK,Consulta de Porductos 2-15,text,true,,45185,192,2,10,https://dummyjson.com/products,75,0,0
+1782669780843,191,HTTP Request Login,200,OK,Login 1-14,text,true,,2909,266,3,10,https://dummyjson.com/auth/login,191,0,0
+1782669780876,201,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-15,text,true,,1624,325,3,9,https://dummyjson.com/carts/add,200,0,0
+1782669781025,82,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-15,text,true,,42996,189,2,9,https://dummyjson.com/users,67,0,0
+1782669781025,83,HTTP Request Productos,200,OK,Consulta de Porductos 2-15,text,true,,45185,192,2,8,https://dummyjson.com/products,70,0,0
+1782669780970,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-14,text,true,,1616,325,3,7,https://dummyjson.com/carts/add,195,0,0
+1782669780983,214,HTTP Request Productos,200,OK,Consulta de Porductos 2-16,text,true,,45185,192,1,6,https://dummyjson.com/products,206,0,135
+1782669781009,215,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-16,text,true,,42998,189,1,6,https://dummyjson.com/users,200,0,130
+1782669781022,202,HTTP Request Login,200,OK,Login 1-15,text,true,,2907,266,2,6,https://dummyjson.com/auth/login,202,0,0
+1782669780918,338,HTTP Request Login,200,OK,Login 1-16,text,true,,2903,266,2,6,https://dummyjson.com/auth/login,338,0,141
+1782669781198,82,HTTP Request Productos,200,OK,Consulta de Porductos 2-16,text,true,,45189,192,1,6,https://dummyjson.com/products,70,0,0
+1782669781077,207,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-15,text,true,,1616,325,2,6,https://dummyjson.com/carts/add,207,0,0
+1782669781224,82,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-16,text,true,,42998,189,1,6,https://dummyjson.com/users,70,0,0
+1782669781280,79,HTTP Request Productos,200,OK,Consulta de Porductos 2-16,text,true,,45193,192,1,6,https://dummyjson.com/products,66,0,0
+1782669781011,360,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-16,text,true,,1618,325,2,6,https://dummyjson.com/carts/add,360,0,150
+1782669781307,79,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-16,text,true,,43004,189,1,6,https://dummyjson.com/users,68,0,0
+1782669781225,211,HTTP Request Login,200,OK,Login 1-15,text,true,,2907,266,3,7,https://dummyjson.com/auth/login,211,0,0
+1782669781360,77,HTTP Request Productos,200,OK,Consulta de Porductos 2-16,text,true,,45189,192,1,7,https://dummyjson.com/products,64,0,0
+1782669781256,195,HTTP Request Login,200,OK,Login 1-16,text,true,,2909,266,3,7,https://dummyjson.com/auth/login,195,0,0
+1782669781387,78,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-16,text,true,,42996,189,1,7,https://dummyjson.com/users,71,0,0
+1782669781285,206,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-15,text,true,,1618,325,2,8,https://dummyjson.com/carts/add,205,0,0
+1782669781437,77,HTTP Request Productos,200,OK,Consulta de Porductos 2-16,text,true,,45185,192,2,10,https://dummyjson.com/products,65,0,0
+1782669781466,76,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-16,text,true,,43002,189,2,9,https://dummyjson.com/users,65,0,0
+1782669781372,214,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-16,text,true,,1622,325,3,8,https://dummyjson.com/carts/add,214,0,0
+1782669781437,201,HTTP Request Login,200,OK,Login 1-15,text,true,,2901,266,3,8,https://dummyjson.com/auth/login,200,0,0
+1782669781452,202,HTTP Request Login,200,OK,Login 1-16,text,true,,2911,266,2,7,https://dummyjson.com/auth/login,202,0,0
+1782669781499,201,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-17,text,true,,43002,189,1,7,https://dummyjson.com/users,190,0,129
+1782669781491,209,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-15,text,true,,1622,325,3,7,https://dummyjson.com/carts/add,209,0,0
+1782669781481,230,HTTP Request Productos,200,OK,Consulta de Porductos 2-17,text,true,,45185,192,1,6,https://dummyjson.com/products,210,0,142
+1782669781422,331,HTTP Request Login,200,OK,Login 1-17,text,true,,2909,266,2,6,https://dummyjson.com/auth/login,331,0,146
+1782669781700,79,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-17,text,true,,43002,189,1,6,https://dummyjson.com/users,70,0,0
+1782669781711,79,HTTP Request Productos,200,OK,Consulta de Porductos 2-17,text,true,,45183,192,1,6,https://dummyjson.com/products,69,0,0
+1782669781587,206,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-16,text,true,,1620,325,2,6,https://dummyjson.com/carts/add,206,0,0
+1782669781509,337,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-17,text,true,,1618,325,2,6,https://dummyjson.com/carts/add,337,0,142
+1782669781655,193,HTTP Request Login,200,OK,Login 1-16,text,true,,2913,266,2,6,https://dummyjson.com/auth/login,193,0,0
+1782669781780,75,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-17,text,true,,43008,189,1,6,https://dummyjson.com/users,64,0,0
+1782669781791,79,HTTP Request Productos,200,OK,Consulta de Porductos 2-17,text,true,,45179,192,1,6,https://dummyjson.com/products,67,0,0
+1782669781855,80,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-17,text,true,,42998,189,1,7,https://dummyjson.com/users,68,0,0
+1782669781754,189,HTTP Request Login,200,OK,Login 1-17,text,true,,2903,266,3,7,https://dummyjson.com/auth/login,188,0,0
+1782669781871,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-17,text,true,,45185,192,1,7,https://dummyjson.com/products,66,0,0
+1782669781793,216,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-16,text,true,,1616,325,2,7,https://dummyjson.com/carts/add,216,0,0
+1782669781936,78,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-17,text,true,,43004,189,1,7,https://dummyjson.com/users,70,0,0
+1782669781957,82,HTTP Request Productos,200,OK,Consulta de Porductos 2-17,text,true,,45191,192,1,7,https://dummyjson.com/products,70,0,0
+1782669781846,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-17,text,true,,1618,325,2,7,https://dummyjson.com/carts/add,196,0,0
+1782669781848,195,HTTP Request Login,200,OK,Login 1-16,text,true,,2903,266,3,7,https://dummyjson.com/auth/login,195,0,0
+1782669781943,195,HTTP Request Login,200,OK,Login 1-17,text,true,,2905,266,3,7,https://dummyjson.com/auth/login,195,0,0
+1782669782009,216,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-16,text,true,,1616,325,3,7,https://dummyjson.com/carts/add,216,0,0
+1782669782043,198,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-17,text,true,,1618,325,2,6,https://dummyjson.com/carts/add,198,0,0
+1782669781915,338,HTTP Request Login,200,OK,Login 1-18,text,true,,2909,266,2,6,https://dummyjson.com/auth/login,338,0,142
+1782669782139,185,HTTP Request Login,200,OK,Login 1-17,text,true,,2903,266,2,6,https://dummyjson.com/auth/login,185,0,0
+1782669782192,226,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-18,text,true,,43004,189,1,6,https://dummyjson.com/users,217,0,143
+1782669782242,195,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-17,text,true,,1616,325,2,6,https://dummyjson.com/carts/add,195,0,0
+1782669782188,251,HTTP Request Productos,200,OK,Consulta de Porductos 2-18,text,true,,45185,192,1,6,https://dummyjson.com/products,240,0,161
+1782669782254,199,HTTP Request Login,200,OK,Login 1-18,text,true,,2901,266,3,7,https://dummyjson.com/auth/login,199,0,0
+1782669782419,87,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-18,text,true,,42994,189,2,10,https://dummyjson.com/users,73,0,0
+1782669782325,186,HTTP Request Login,200,OK,Login 1-17,text,true,,2911,266,3,10,https://dummyjson.com/auth/login,186,0,0
+1782669782192,335,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-18,text,true,,1620,325,3,9,https://dummyjson.com/carts/add,335,0,142
+1782669782439,89,HTTP Request Productos,200,OK,Consulta de Porductos 2-18,text,true,,45183,192,2,9,https://dummyjson.com/products,77,0,0
+1782669782506,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-18,text,true,,42996,189,2,9,https://dummyjson.com/users,78,0,0
+1782669782529,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-18,text,true,,45185,192,2,9,https://dummyjson.com/products,73,0,0
+1782669782437,197,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-17,text,true,,1620,325,3,9,https://dummyjson.com/carts/add,197,0,0
+1782669782454,197,HTTP Request Login,200,OK,Login 1-18,text,true,,2907,266,2,8,https://dummyjson.com/auth/login,197,0,0
+1782669782596,92,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-18,text,true,,42994,189,2,8,https://dummyjson.com/users,80,0,0
+1782669782497,212,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-19,text,true,,43002,189,2,8,https://dummyjson.com/users,200,0,132
+1782669782615,94,HTTP Request Productos,200,OK,Consulta de Porductos 2-18,text,true,,45187,192,2,8,https://dummyjson.com/products,75,0,0
+1782669782482,232,HTTP Request Productos,200,OK,Consulta de Porductos 2-19,text,true,,45187,192,2,8,https://dummyjson.com/products,224,0,143
+1782669782527,210,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-18,text,true,,1620,325,2,8,https://dummyjson.com/carts/add,210,0,0
+1782669782689,84,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-18,text,true,,42998,189,2,8,https://dummyjson.com/users,72,0,0
+1782669782709,90,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-19,text,true,,43006,189,1,7,https://dummyjson.com/users,76,0,0
+1782669782453,353,HTTP Request Login,200,OK,Login 1-19,text,true,,2905,266,2,7,https://dummyjson.com/auth/login,353,0,148
+1782669782714,92,HTTP Request Productos,200,OK,Consulta de Porductos 2-19,text,true,,45179,192,2,7,https://dummyjson.com/products,77,0,0
+1782669782709,98,HTTP Request Productos,200,OK,Consulta de Porductos 2-18,text,true,,45189,192,2,7,https://dummyjson.com/products,83,0,0
+1782669782502,344,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-19,text,true,,1618,325,2,6,https://dummyjson.com/carts/add,344,0,143
+1782669782652,197,HTTP Request Login,200,OK,Login 1-18,text,true,,2909,266,2,6,https://dummyjson.com/auth/login,197,0,0
+1782669782800,83,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-19,text,true,,43000,189,1,6,https://dummyjson.com/users,72,0,0
+1782669782807,85,HTTP Request Productos,200,OK,Consulta de Porductos 2-19,text,true,,45189,192,1,6,https://dummyjson.com/products,74,0,0
+1782669782737,193,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-18,text,true,,1618,325,2,6,https://dummyjson.com/carts/add,193,0,0
+1782669782884,91,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-19,text,true,,43000,189,1,7,https://dummyjson.com/users,75,0,0
+1782669782893,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-19,text,true,,45179,192,1,7,https://dummyjson.com/products,74,0,0
+1782669782807,196,HTTP Request Login,200,OK,Login 1-19,text,true,,2905,266,3,10,https://dummyjson.com/auth/login,196,0,0
+1782669782847,194,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-19,text,true,,1624,325,3,10,https://dummyjson.com/carts/add,194,0,0
+1782669782850,198,HTTP Request Login,200,OK,Login 1-18,text,true,,2899,266,3,10,https://dummyjson.com/auth/login,197,0,0
+1782669782975,74,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-19,text,true,,43002,189,2,9,https://dummyjson.com/users,66,0,0
+1782669782979,93,HTTP Request Productos,200,OK,Consulta de Porductos 2-19,text,true,,45191,192,2,8,https://dummyjson.com/products,77,0,0
+1782669782931,195,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-18,text,true,,1616,325,3,7,https://dummyjson.com/carts/add,195,0,0
+1782669783003,197,HTTP Request Login,200,OK,Login 1-19,text,true,,2909,266,2,7,https://dummyjson.com/auth/login,197,0,0
+1782669782980,229,HTTP Request Productos,200,OK,Consulta de Porductos 2-20,text,true,,45183,192,1,7,https://dummyjson.com/products,214,0,144
+1782669783000,224,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-20,text,true,,42998,189,1,7,https://dummyjson.com/users,217,0,139
+1782669783041,215,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-19,text,true,,1616,325,3,7,https://dummyjson.com/carts/add,215,0,0
+1782669783210,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-20,text,true,,45181,192,1,7,https://dummyjson.com/products,71,0,0
+1782669782946,358,HTTP Request Login,200,OK,Login 1-20,text,true,,2907,266,2,7,https://dummyjson.com/auth/login,358,0,154
+1782669783224,86,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-20,text,true,,42996,189,1,7,https://dummyjson.com/users,80,0,0
+1782669783127,196,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-18,text,true,,1622,325,3,7,https://dummyjson.com/carts/add,196,0,0
+1782669783003,353,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-20,text,true,,1628,325,2,6,https://dummyjson.com/carts/add,353,0,141
+1782669783297,87,HTTP Request Productos,200,OK,Consulta de Porductos 2-20,text,true,,45183,192,1,6,https://dummyjson.com/products,76,0,0
+1782669783201,195,HTTP Request Login,200,OK,Login 1-19,text,true,,2919,266,2,6,https://dummyjson.com/auth/login,195,0,0
+1782669783311,92,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-20,text,true,,42998,189,1,6,https://dummyjson.com/users,77,0,0
+1782669783256,199,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-19,text,true,,1624,325,2,6,https://dummyjson.com/carts/add,199,0,0
+1782669783386,86,HTTP Request Productos,200,OK,Consulta de Porductos 2-20,text,true,,45181,192,1,6,https://dummyjson.com/products,75,0,0
+1782669783404,86,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-20,text,true,,43000,189,1,6,https://dummyjson.com/users,72,0,0
+1782669783305,205,HTTP Request Login,200,OK,Login 1-20,text,true,,2903,266,2,6,https://dummyjson.com/auth/login,205,0,0
+1782669783474,85,HTTP Request Productos,200,OK,Consulta de Porductos 2-20,text,true,,45185,192,1,6,https://dummyjson.com/products,73,0,0
+1782669783357,204,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-20,text,true,,1620,325,2,5,https://dummyjson.com/carts/add,204,0,0
+1782669783491,85,HTTP Request API publica (Usuarios),200,OK,API pública (usuarios) 3-20,text,true,,42996,189,1,5,https://dummyjson.com/users,74,0,0
+1782669783397,195,HTTP Request Login,200,OK,Login 1-19,text,true,,2905,266,2,4,https://dummyjson.com/auth/login,195,0,0
+1782669783456,206,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-19,text,true,,1622,325,2,3,https://dummyjson.com/carts/add,206,0,0
+1782669783511,203,HTTP Request Login,200,OK,Login 1-20,text,true,,2909,266,1,2,https://dummyjson.com/auth/login,203,0,0
+1782669783561,210,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-20,text,true,,1624,325,1,2,https://dummyjson.com/carts/add,210,0,0
+1782669783715,200,HTTP Request Login,200,OK,Login 1-20,text,true,,2903,266,1,2,https://dummyjson.com/auth/login,200,0,0
+1782669783771,206,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-20,text,true,,1614,325,1,2,https://dummyjson.com/carts/add,206,0,0
+1782669783916,202,HTTP Request Login,200,OK,Login 1-20,text,true,,2913,266,1,2,https://dummyjson.com/auth/login,202,0,0
+1782669783977,206,HTTP Request Flujo de Compra,201,Created,Flujo de Compra 4-20,text,true,,1616,325,1,1,https://dummyjson.com/carts/add,206,0,0

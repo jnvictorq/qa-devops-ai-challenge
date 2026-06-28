@@ -1,0 +1,24 @@
+{
+  "name": "test-automation-framework-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UI automation framework migrated from Behave/Selenium to Playwright with TypeScript.",
+  "scripts": {
+    "test": "playwright test",
+    "test:ci": "playwright test --project=chrome-headless --project=firefox-headless --project=edge-headless",
+    "test:headed": "playwright test --headed",
+    "test:chrome": "playwright test --project=chrome --project=chrome-headless",
+    "test:firefox": "playwright test --project=firefox --project=firefox-headless",
+    "test:edge": "playwright test --project=edge --project=edge-headless",
+    "test:smoke": "playwright test tests/e2e/login.spec.ts",
+    "report": "playwright show-report reports/html",
+    "report:allure": "allure serve allure-results"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^24.0.0",
+    "allure-playwright": "^3.4.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.8.3"
+  }
+}

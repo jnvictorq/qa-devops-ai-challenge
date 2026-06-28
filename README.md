@@ -1,4 +1,4 @@
-# QA DevOps AI Challenge
+# QA DevOps AI Challenge Reto 5
 
 Framework profesional de automatización QA para la aplicación **QA Store**, implementado con Playwright + TypeScript y complementado con prácticas DevOps, pruebas de performance y análisis utilizando Inteligencia Artificial.
 
